@@ -1,0 +1,12 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "better-output"
+version = "0.1.0"
+authors = [{name="Will R", email="willrycroft@outlook.com"}]
+license = "MIT"
+description = ""
+readme = "README.md"
+install_requires = []
